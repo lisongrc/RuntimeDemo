@@ -12,7 +12,7 @@
 		99DEF88A1E9C82ED006CD70B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99DEF8891E9C82ED006CD70B /* Assets.xcassets */; };
 		99F4008A1EDFE99700FC12D9 /* TestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 99F400891EDFE99700FC12D9 /* TestClass.m */; };
 		99F4008D1EDFE9D600FC12D9 /* TestClass+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 99F4008C1EDFE9D600FC12D9 /* TestClass+Category.m */; };
-		99F400BB1EE01F7E00FC12D9 /* NSArray+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = 99F400AC1EE01F7E00FC12D9 /* NSArray+Safe.m */; };
+		99F400BB1EE01F7E00FC12D9 /* NSArray+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = 99F400AC1EE01F7E00FC12D9 /* NSArray+Safe.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		99F400BC1EE01F7E00FC12D9 /* NSDictionary+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = 99F400AE1EE01F7E00FC12D9 /* NSDictionary+Safe.m */; };
 		99F400C01EE01F7E00FC12D9 /* NSNull+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = 99F400B61EE01F7E00FC12D9 /* NSNull+Safe.m */; };
 		99F400C21EE01F7E00FC12D9 /* NSString+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = 99F400BA1EE01F7E00FC12D9 /* NSString+Safe.m */; };
